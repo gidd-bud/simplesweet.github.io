@@ -79,5 +79,3 @@ func (self *UseRollbackHandler) Execute() error {
    }
    self.AddRollback(rollbackFunc_rpcB())
 ```
-
-
